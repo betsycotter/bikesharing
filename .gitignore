@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+*.DS_Store
+*config.js
 eggs/
 .eggs/
 lib/
